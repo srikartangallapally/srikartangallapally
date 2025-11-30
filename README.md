@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/srikartangalla" target="blank"><img src="https://img.shields.io/twitter/follow/srikartangalla?logo=twitter&style=for-the-badge" alt="srikartangalla" /></a> </p>
 
-- 🔭 I’m currently working on **Tech for dyslexia**
-
-- 🌱 I’m currently learning **Hyperledger fabric, react, Ionic and angular orm for db**
-
 - 🔭 I’m currently working on [Evault based on blockchain](https://github.com/srikar-amigo/Evault_Blockchain)
-
-- 🤝 I’m looking for help with **Evault based on blockchain**
 
 - 💬 Ask me about **Blockchain, Tailwind, bootstrap, node.js, express.js, c++, python, anything related to webdev.**
 
